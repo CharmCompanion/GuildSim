@@ -1,0 +1,35 @@
+[
+  {
+    "seed_code": "PLC-eyJiZyI6WzEwLDEyLDE2XSwiZ3JpZF9jZWxsIjo4LCJpdGVtcyI6W3siY29sb3IiOiIjZmZmIiwiaCI6NCwic3Ryb2tlIjoxLCJ0eXBlIjoicmVjdCIsInciOjMsIngiOjEsInkiOjJ9XSwic2NlbmUiOiJkYXNoYm9hcmQifQ-256A",
+    "kind": "place",
+    "title": "Test Place",
+    "tags": [
+      "test",
+      "local"
+    ],
+    "meta": {
+      "scene": "dashboard"
+    }
+  },
+  {
+    "seed_code": "PLC-eyJiZyI6WzEwLDEyLDE2XSwiZ3JpZF9jZWxsIjo4LCJpdGVtcyI6W3siaCI6OCwicGF0aCI6ImJhY2tncm91bmRzL3Rlc3QucG5nIiwic3JjX2giOjgsInNyY193Ijo4LCJzcmNfeCI6MCwic3JjX3kiOjAsInR5cGUiOiJzcHJpdGUiLCJ3Ijo4LCJ4IjoxLCJ5IjoxfV0sInNjZW5lIjoiZGFzaGJvYXJkIn0-34FA",
+    "kind": "place",
+    "title": "Meta Place",
+    "tags": [
+      "community",
+      "place"
+    ],
+    "author": "TestAuthor",
+    "description": "desc",
+    "rating": "PG",
+    "meta": {
+      "scene": "dashboard",
+      "dependencies": [
+        "backgrounds/test.png"
+      ]
+    },
+    "entry_id": "PLC-eyJiZyI6WzEwLDEyLDE2XSwiZ3JpZF9jZWxsIjo4LCJpdGVtcyI6W3siaCI6OCwicGF0aCI6ImJhY2tncm91bmRzL3Rlc3QucG5nIiwic3JjX2giOjgsInNyY193Ijo4LCJzcmNfeCI6MCwic3JjX3kiOjAsInR5cGUiOiJzcHJpdGUiLCJ3Ijo4LCJ4IjoxLCJ5IjoxfV0sInNjZW5lIjoiZGFzaGJvYXJkIn0-34FA",
+    "created_at": "2026-03-11 13:55:22",
+    "updated_at": "2026-03-11 13:55:22"
+  }
+]

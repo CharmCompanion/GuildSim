@@ -1,0 +1,72 @@
+ * Serving Flask app 'guild_sim_main'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.80.98:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 684-443-064
+172.31.80.98 - - [10/Mar/2026 18:54:22] "GET / HTTP/1.1" 200 -
+172.31.80.98 - - [10/Mar/2026 18:54:22] "GET /static/style.css HTTP/1.1" 200 -
+172.31.80.98 - - [10/Mar/2026 18:54:22] "GET /static/app.js HTTP/1.1" 200 -
+127.0.0.1 - - [10/Mar/2026 18:54:37] "GET / HTTP/1.1" 200 -
+172.31.80.98 - - [10/Mar/2026 18:54:37] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [10/Mar/2026 18:54:42] "GET /static/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [10/Mar/2026 18:54:42] "GET /static/app.js HTTP/1.1" 200 -
+127.0.0.1 - - [10/Mar/2026 18:54:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+127.0.0.1 - - [10/Mar/2026 18:54:50] "[32mPOST /new_game HTTP/1.1[0m" 302 -
+127.0.0.1 - - [10/Mar/2026 18:54:50] "[31m[1mPOST /dashboard HTTP/1.1[0m" 405 -
+172.31.80.98 - - [10/Mar/2026 18:54:52] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [10/Mar/2026 18:54:58] "GET /dashboard HTTP/1.1" 200 -
+127.0.0.1 - - [10/Mar/2026 18:55:00] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [10/Mar/2026 18:55:00] "[36mGET /static/app.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [10/Mar/2026 18:55:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+172.31.80.98 - - [10/Mar/2026 18:55:07] "GET /api/status HTTP/1.1" 200 -
+172.31.80.98 - - [10/Mar/2026 18:55:22] "GET /api/status HTTP/1.1" 200 -
+172.31.80.98 - - [10/Mar/2026 18:55:37] "GET /api/status HTTP/1.1" 200 -
+172.31.80.98 - - [10/Mar/2026 18:55:52] "GET /api/status HTTP/1.1" 200 -
+172.31.80.98 - - [10/Mar/2026 18:56:07] "GET /api/status HTTP/1.1" 200 -
+ * Detected change in '/home/runner/workspace/models.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 684-443-064
+ * Detected change in '/home/runner/workspace/models.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 684-443-064
+ * Detected change in '/home/runner/workspace/guild_sim_main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 684-443-064
+172.31.80.98 - - [10/Mar/2026 18:56:22] "GET /api/status HTTP/1.1" 200 -
+ * Detected change in '/home/runner/workspace/guild_sim_main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 684-443-064
+ * Detected change in '/home/runner/workspace/guild_sim_main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 684-443-064
+ * Detected change in '/home/runner/workspace/guild_sim_main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 684-443-064
+ * Detected change in '/home/runner/workspace/guild_sim_main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 684-443-064
+172.31.80.98 - - [10/Mar/2026 18:56:37] "GET /api/status HTTP/1.1" 200 -
+ * Detected change in '/home/runner/workspace/guild_sim_main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 684-443-064
+ * Detected change in '/home/runner/workspace/guild_sim_main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 684-443-064
+ * Detected change in '/home/runner/workspace/guild_sim_main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 684-443-064

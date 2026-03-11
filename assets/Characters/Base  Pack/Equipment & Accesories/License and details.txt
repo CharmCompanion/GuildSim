@@ -1,0 +1,18 @@
+FANTASY RPG - Character Base (by Franuka) v1.0
+-------------------------
+Thank you for getting this character pack!
+You can use it on any RPG, or along with my Fantasy RPG asset packs (https://franuka.itch.io/rpg-asset-pack)
+It was created from scratch, and licensed under the Creative commons BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Feel free to use it on any commercial or non-commercial game, just remember to add a link to my itch page and/or X, it helps a lot :) -->https://x.com/franuka_art
+---
+Included are the spritesheets for each character in three sizes (1x, 2x, 3x), .png format, transparent background.
+Frames are 16x24px (1x), 32x48px (2x), or 48x72 (3x). Equipment (such as the included free white shirt) can be combined with the naked sprites putting the clothes/accesories on top.
+---
+All art was made by me. If you need anything else, feel free to contact me and ask for details.
+Contact: franukai@gmail.com
+Instagram: https://www.instagram.com/franuka.art/
+X: https://x.com/franuka_art
+Other projects and games: https://franuka.itch.io/
+
+If you like what I do, consider supporting me by buying my packs, sharing, or sending your feedback.
+Have a good time making your games :)
