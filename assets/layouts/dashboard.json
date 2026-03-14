@@ -1,0 +1,84 @@
+{
+  "scene": "dashboard",
+  "bg": [
+    10,
+    12,
+    16
+  ],
+  "grid_cell": 8,
+  "layer_defs": [
+    {
+      "id": "base",
+      "name": "Base",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "active_layer_id": "base",
+  "items": [
+    {
+      "type": "sprite",
+      "layer_id": "base",
+      "path": "scenes/Guild/Guild1.1.png",
+      "x": -128,
+      "y": -160,
+      "w": 384,
+      "h": 480,
+      "src_x": 0,
+      "src_y": 0,
+      "src_w": 384,
+      "src_h": 480,
+      "rot": 0,
+      "flip_x": false,
+      "flip_y": false
+    },
+    {
+      "type": "sprite",
+      "layer_id": "base",
+      "path": "scenes/Guild/Guild1.2.png",
+      "x": -32,
+      "y": -40,
+      "w": 192,
+      "h": 240,
+      "src_x": 0,
+      "src_y": 0,
+      "src_w": 192,
+      "src_h": 240,
+      "rot": 0,
+      "flip_x": false,
+      "flip_y": false
+    },
+    {
+      "type": "sprite",
+      "layer_id": "base",
+      "path": "scenes/Guild/Guild1.4.png",
+      "x": 16,
+      "y": 20,
+      "w": 96,
+      "h": 120,
+      "src_x": 0,
+      "src_y": 0,
+      "src_w": 96,
+      "src_h": 120,
+      "rot": 0,
+      "flip_x": false,
+      "flip_y": false
+    },
+    {
+      "type": "sprite",
+      "layer_id": "base",
+      "path": "scenes/Guild/Guild1.8.png",
+      "x": 40,
+      "y": 50,
+      "w": 48,
+      "h": 60,
+      "src_x": 0,
+      "src_y": 0,
+      "src_w": 48,
+      "src_h": 60,
+      "rot": 0,
+      "flip_x": false,
+      "flip_y": false
+    }
+  ]
+}
